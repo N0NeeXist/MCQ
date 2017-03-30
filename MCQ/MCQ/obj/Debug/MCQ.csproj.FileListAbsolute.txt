@@ -1,0 +1,14 @@
+E:\SN1 C#\MCQ\MCQ\bin\Debug\MCQ.exe.config
+E:\SN1 C#\MCQ\MCQ\bin\Debug\MCQ.exe
+E:\SN1 C#\MCQ\MCQ\bin\Debug\MCQ.pdb
+E:\SN1 C#\MCQ\MCQ\obj\Debug\MCQ.Form1.resources
+E:\SN1 C#\MCQ\MCQ\obj\Debug\MCQ.Properties.Resources.resources
+E:\SN1 C#\MCQ\MCQ\obj\Debug\MCQ.csproj.GenerateResource.Cache
+E:\SN1 C#\MCQ\MCQ\obj\Debug\MCQ.exe
+E:\SN1 C#\MCQ\MCQ\obj\Debug\MCQ.pdb
+E:\SN1 C#\MCQ\MCQ\obj\Debug\MCQ.Form2.resources
+E:\SN1 C#\MCQ\MCQ\obj\Debug\MCQ.csprojResolveAssemblyReference.cache
+E:\SN1 C#\MCQ\MCQ\obj\Debug\MCQ.Form3.resources
+E:\SN1 C#\MCQ\MCQ\obj\Debug\MCQ.Form4.resources
+E:\SN1 C#\MCQ\MCQ\obj\Debug\MCQ.Form5.resources
+E:\SN1 C#\MCQ\MCQ\obj\Debug\MCQ.Form6.resources
